@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Ecualizador
+http://192.168.1.114:8080/hls/ec.m3u8
+#EXTINF:-1,ReyArturo
+http://192.168.1.114:8080/hls2/ra.m3u8
+#EXTINF:-1,CrudaRealidad
+http://192.168.1.114:8080/hls3/cr.m3u8
