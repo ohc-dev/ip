@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Video1
+http://172.16.0.2:8080/hls/v1.m3u8
+#EXTINF:-1,Video2
+http://172.16.0.2:8080/hls2/v2.m3u8
+#EXTINF:-1,Video3
+http://172.16.0.2:8080/hls3/v3.m3u8
